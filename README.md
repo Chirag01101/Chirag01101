@@ -1,6 +1,6 @@
 ![Masterhead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Chirag Goyal</h1>
-<h3 align="center">CSE AI STUDENT</h3>
+<h3 align="center">Associate product mangager</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=790b7611vlnc73p7ah7jtmlcm1eld5abpc5trnh5f2hrn6jf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Improving Myself**
